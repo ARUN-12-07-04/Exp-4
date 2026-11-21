@@ -112,9 +112,9 @@ Iris dataset.
 
 ## output
 
-SVM Classification Accuracy
-
-Linear Kernel: 0.7333 (73.33%)
+    SVM Classification Accuracy
+    
+    Linear Kernel: 0.7333 (73.33%)
 
 RBF Kernel: 0.7333 (73.33%)
 
